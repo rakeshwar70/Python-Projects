@@ -8,7 +8,7 @@ def medicine():
     # function to add a medicine
     def addmedicine():
         print("\n")
-        print("😇🙃" * 15)
+        print("😇🙃" * 5)
         print("\n")
         mid = input("Enter Medicine Id : ")
         name = input("Enter Medicine Name : ")
